@@ -1,0 +1,96 @@
+Data Download for Which Courses Have the Largest GPA Equity Gaps?,,,,,,
+CSV from: ,https://csusuccess.dashboards.calstate.edu/faculty-dashboard/achievement-gaps-gpa,,,,,
+Humboldt,*All Colleges,2023 - Fall,Largest GPA Gap,,,
+,,,,,,
+FirstGen GPA Summary,,,,,,
+Course,Course Code,FirstGen Enrollment,NotFirstGen Enrollment,FirstGen GPA,NotFirstGen GPA,GPA Gap
+Theory and Methods,CRGS390,11,12,2.38,3.86,1.48
+First Year Ere Seminar,ENGR280,10,66,1.7,3,1.3
+Evolution,BIOL307,15,46,2.07,3.02,0.95
+Organic Chemistry I,CHEM324,13,43,1.69,2.58,0.89
+"Rock,  An American Music",MUS301,10,63,1.93,2.79,0.86
+Sound Mind Sound Body,HED100,14,73,1.64,2.5,0.86
+Senior Project,WLDF495W,10,28,2.63,3.46,0.83
+Radical Futures,CRGS331,18,15,2.85,3.67,0.82
+Basic Human Nutrition,HED231,11,34,3.7,2.9,-0.8
+Elementary Statistics,STAT108,18,133,2.06,2.84,0.78
+Support For Math 101i,MATH1,29,143,1.38,2.11,0.73
+The Stories We Tell,AHSS101,16,80,2.23,2.94,0.71
+Cognitive Psychology,PSYC324,16,64,2.52,3.2,0.68
+Beg Ceramics,ART290,14,57,2.87,3.53,0.66
+U.S. History To 1877,HIST110,22,107,2.54,3.2,0.66
+College Algebra Is,MATH101I,29,143,1.49,2.15,0.66
+Organic Chemistry I Laboratory,CHEM324L,11,42,2.55,3.21,0.66
+Principles of Biology,BIOL105,28,162,1.97,2.61,0.64
+College Algebra,MATH101,17,124,1.95,2.59,0.64
+General Chemistry,CHEM109,33,206,1.91,2.54,0.63
+Intro To U.S. Ethnic Studies,ES105,14,62,2.57,3.18,0.61
+Introductory Zoology,ZOOL110,13,79,1.61,2.21,0.6
+Fundamentals of Chemistry,CHEM107,12,99,2.03,2.61,0.58
+Inclusive Recreation,REC302,11,47,2.58,3.16,0.58
+Geospatial Concepts,GSP101,19,207,3.48,2.92,-0.56
+Algebra and Elementary Functio,MATH102,26,133,1.82,2.38,0.56
+Brief Organic Chemistry,CHEM228,11,57,1.94,2.49,0.55
+General Botany,BOT105,35,294,2.09,2.64,0.55
+Environmental Crime,SOC363,13,13,3.26,3.8,0.54
+Interviewing and Counslng Tech,PSYC454,14,37,2.64,3.17,0.53
+Chican@ and Latin@ Lives,ES107,23,116,2.8,3.31,0.51
+General Chemistry,CHEM110,15,84,2.07,2.58,0.51
+Wildlife Mgmt (Nongame Wldf),WLDF423,14,35,2.72,3.2,0.48
+Calculus I,MATH109,12,85,1.76,2.24,0.48
+Composition and Rhetoric B,ENGL103,15,94,2.55,2.99,0.44
+Principles of Wldlfe Mngmnt,WLDF301,11,43,3.5,3.07,-0.43
+American Government,PSCI110,42,247,2.69,3.12,0.43
+Intro To Black Studies,ES106,11,45,2.12,2.53,0.41
+Computer Science Foundations 1,CS111,18,55,2.59,2.99,0.4
+U.S. History Since 1877,HIST111,17,88,2.75,3.14,0.39
+Plant Ecology,BOT330,14,52,2.95,3.34,0.39
+Intro To Env Resources Engr,ENGR115,17,97,2.92,3.29,0.37
+Intro Psychology,PSYC104,17,110,3.02,2.65,-0.37
+College Seminar,SP117,17,10,3.53,3.9,0.37
+Intro To Nat American Studies,NAS104,47,273,2.57,2.93,0.36
+Soc Wk and Community Justice,SW442,11,26,3.93,3.57,-0.36
+Calculus and Bio Sci and Nat R,MATH105,14,83,1.95,2.31,0.36
+Behind The Scenes In Theatre,TA106,10,18,2.8,3.15,0.35
+Substance Use and Abuse,PSYC473,24,56,3.36,3.69,0.33
+Intro To Music,MUS104,15,56,2.55,2.88,0.33
+Introduction To Remote Sensing,GSP216,10,39,3.33,3.02,-0.31
+Logic,PHIL100,11,94,2.26,2.56,0.3
+Cell Biology,BIOL350,19,56,2.16,2.44,0.28
+Intro To Social Work Methods,SW340,29,39,3.53,3.8,0.27
+Amer Sign Language Level I,CD109Y,10,27,3.15,2.88,-0.27
+Plant Taxonomy,BOT350,20,77,2.86,3.1,0.24
+Intro To Social Research,SOC382,12,24,2.53,2.74,0.21
+Global Humboldt Seminar,AHSS180,13,64,3.36,3.57,0.21
+Abnormal Psychology,PSYC338,16,67,3.23,3.02,-0.21
+"Col Phyx,  Mechanics and Heat",PHYX106,10,81,2.82,3.02,0.2
+Intro Social Work Methods Lab,SW340L,29,39,3.64,3.82,0.18
+Tek and Place Based Learning,NAS101,12,47,3.08,3.26,0.18
+Introductory Biostatistics,STAT109,16,136,2.33,2.51,0.18
+Ca and Us Forest Wildland Poli,FOR359,10,60,3.5,3.32,-0.18
+"Pwr and Privilege, gen and Rac",CRGS108,14,46,2.95,3.13,0.18
+Biological Anthropology,ANTH103,10,61,2.63,2.8,0.17
+Becoming A Stem Professional,SCI100,54,359,2.84,3.01,0.17
+Earthquake Country,GEOL106,10,40,2.85,3.01,0.16
+Introduction To Soil Science,SOIL260,11,109,3,2.84,-0.16
+Fund Speech Comm,COMM100,64,398,2.81,2.96,0.15
+Directed Study,BIOL499,15,64,4,3.85,-0.15
+Film Comedy Around The World,FILM109,16,63,3.07,2.92,-0.15
+Mammalogy,ZOOL356,14,51,3.26,3.12,-0.14
+College Corps,AHSS480,33,73,3.86,4,0.14
+Psychology of Women,PSYC300,16,66,3.35,3.21,-0.14
+Psych of Critical Thinking,PSYC100,15,126,3.16,3.29,0.13
+Middle Childhood Development,CD209,12,54,2.92,3.04,0.12
+Introduction To Gis,GSP270,18,91,3.2,3.08,-0.12
+Social Work Research,SW382,29,41,3.63,3.53,-0.1
+Oral Literature and Tradition,NAS302W,10,26,3.04,3.1,0.06
+Beg Graphic Design,ART108,12,37,2.95,2.89,-0.06
+Human Behavior and Soc Env I,SW350,29,39,3.72,3.77,0.05
+Legal Environment of Business,BA210,11,47,3.24,3.28,0.04
+General Bacteriology,BIOL412,16,19,2.4,2.43,0.03
+Strategic Management,BA496,11,27,3.64,3.61,-0.03
+Ornithology I,WLDF365,12,36,2.97,2.99,0.02
+"Race, Gender and Us Law",CRGS360,10,15,3.89,3.91,0.02
+Indian In Am Hist,NAS200,27,132,2.75,2.73,-0.02
+Intro To Sw and Sw Institution,SW101,21,62,3.13,3.12,-0.01
+Accelerated Comp and Rhetoric,ENGL104,25,169,2.9,2.91,0.01

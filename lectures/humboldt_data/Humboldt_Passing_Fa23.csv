@@ -1,0 +1,621 @@
+Data Download for where-do-they-struggle,,,,
+CSV from: ,https://csusuccess.dashboards.calstate.edu/faculty-dashboard/where-do-they-struggle,,,
+Humboldt,*All Colleges,By Department,*All Departments,2023 - Fall
+,,,,
+"""Course Grade Bottlenecks for All Freshman, Transfer, and Graduate Students""",,,,
+Year Term,Course Code,Course Title,Enrollment,Number Non-passing
+2023 - Fall,AHSS101,The Stories We Tell,96,21
+2023 - Fall,AHSS102,Humboldt Peoples and Places,20,2
+2023 - Fall,AHSS108,"Nature, Culture, and Food",31,4
+2023 - Fall,AHSS180,Global Humboldt Seminar,77,5
+2023 - Fall,AHSS201,"Evol, Creat,and Robot Apocalyp",27,4
+2023 - Fall,AHSS480,College Corps,106,1
+2023 - Fall,AIE330,History of Indian Education,24,3
+2023 - Fall,AIE340,Instructional Practices,15,1
+2023 - Fall,ANTH103,Biological Anthropology,71,14
+2023 - Fall,ANTH104,Cultural Anthropology,44,10
+2023 - Fall,ANTH105,Archaeology and World Prehisto,45,6
+2023 - Fall,ANTH210,Intro To Anthropology Major,25,3
+2023 - Fall,ANTH302,Anthropology of Religion,43,11
+2023 - Fall,ANTH305,"Hum Ev Bio, Diversity, Health",42,3
+2023 - Fall,ANTH307,Chinese Cultural Heritage,42,8
+2023 - Fall,ANTH310W,"Critical Hist,  Cult, Race, Sc",24,3
+2023 - Fall,ANTH317,Women and Development,16,3
+2023 - Fall,ANTH318,Ethnography,26,4
+2023 - Fall,ANTH334,"Anthro, Ecology and Conservati",24,4
+2023 - Fall,ANTH350,Method and Theory In Archaeolo,25,4
+2023 - Fall,ANTH358,Archaeology Lab,16,0
+2023 - Fall,ANTH395,Mesoamerican Archaeology,17,4
+2023 - Fall,ANTH410,Anthropology Capstone,10,2
+2023 - Fall,ANTH482,Anthropology Internship,18,3
+2023 - Fall,ART103A,Survey of Art History I,88,10
+2023 - Fall,ART103B,Survey of Art History II,43,1
+2023 - Fall,ART104I,20th Century Art,39,4
+2023 - Fall,ART104J,Art In The United States,42,11
+2023 - Fall,ART105B,Beginning Drawing,70,10
+2023 - Fall,ART105C,Color and Design,50,6
+2023 - Fall,ART105D,3d Foundations,44,3
+2023 - Fall,ART106,Beg Painting,50,2
+2023 - Fall,ART107,Beginning Printmaking,47,2
+2023 - Fall,ART108,Beg Graphic Design,49,10
+2023 - Fall,ART109,Beg Sculpture,46,7
+2023 - Fall,ART122,Life Drawing I,21,2
+2023 - Fall,ART250,Beg Photography,45,7
+2023 - Fall,ART251,Beginning Digital Photography,37,5
+2023 - Fall,ART273,Illustration I,17,1
+2023 - Fall,ART282,Jewelry and Small Metals I,35,11
+2023 - Fall,ART290,Beg Ceramics,71,7
+2023 - Fall,ART301,Renaissance and Baroque Prints,31,8
+2023 - Fall,ART303,Global Contemporary Art,45,6
+2023 - Fall,ART303M,Global Contempo. Art Depth Exp,15,3
+2023 - Fall,ART304,20th and 21st Century American,45,6
+2023 - Fall,ART305,Museums and Politics of Displa,47,4
+2023 - Fall,ART307,Arts Integration K-5 Classroom,22,0
+2023 - Fall,ART321,Intermediate Drawing,18,0
+2023 - Fall,ART324,Advanced Drawing,22,0
+2023 - Fall,ART326,Inter Painting,38,1
+2023 - Fall,ART329,Advanced Painting,20,0
+2023 - Fall,ART340,Intermediate Graphic Design,13,0
+2023 - Fall,ART346,Materials and Methods,14,0
+2023 - Fall,ART348,Inter Jewelry and Small Metals,16,0
+2023 - Fall,ART350,"Intermed Ceramics,  High Fire",27,0
+2023 - Fall,ART351,"Intermed Ceramics,   Low Fire",24,3
+2023 - Fall,ART356,Museum and Gallery Practices,24,1
+2023 - Fall,ART357B,Curr and Dvlpmnt Thru Art Educ,16,0
+2023 - Fall,ART359,Advanced Ceramics,19,1
+2023 - Fall,ART367,Intermediate Photo - Color,22,0
+2023 - Fall,ART372,Web Media and Design,18,1
+2023 - Fall,ART395,Documentary Photography,20,1
+2023 - Fall,ART437W,Professional Practices In Art,21,0
+2023 - Fall,ART497S,Service Learning and Art Ed I,11,0
+2023 - Fall,BA105,Critical Thinking In Org.,40,3
+2023 - Fall,BA106,Advocating For Sustainability,34,2
+2023 - Fall,BA120,Business Essentials,23,0
+2023 - Fall,BA202,Personal Financial Management,30,1
+2023 - Fall,BA210,Legal Environment of Business,58,3
+2023 - Fall,BA250,Financial Accounting,31,3
+2023 - Fall,BA252,Management Accounting,26,2
+2023 - Fall,BA322,Business Analytics,54,7
+2023 - Fall,BA340,Principles of Marketing,68,4
+2023 - Fall,BA360,Principles of Finance,52,8
+2023 - Fall,BA370,Principles of Management,37,2
+2023 - Fall,BA422,Data Analytics and Econometric,16,3
+2023 - Fall,BA430,Introduction To New Ventures,20,1
+2023 - Fall,BA432,Leading Sustainable Ventures,25,1
+2023 - Fall,BA433,Service Venture Management,19,0
+2023 - Fall,BA446,Marketing Research,25,0
+2023 - Fall,BA447,E-Marketing Strategy,23,1
+2023 - Fall,BA448,Consumer Behavior,17,1
+2023 - Fall,BA449,Macromarketing,13,0
+2023 - Fall,BA450,Intermed. Financial Account. I,20,0
+2023 - Fall,BA453,Tax Accounting,25,0
+2023 - Fall,BA454,Financial Statement Auditing,25,1
+2023 - Fall,BA456,Accounting Ethics,23,1
+2023 - Fall,BA460,Investment Management,17,1
+2023 - Fall,BA462,Problems In Financial Mgmt,10,2
+2023 - Fall,BA496,Strategic Management,38,1
+2023 - Fall,BIOL102,Human Biology,67,15
+2023 - Fall,BIOL102L,Human Biology Lab,24,8
+2023 - Fall,BIOL104,General Biology,60,8
+2023 - Fall,BIOL105,Principles of Biology,190,34
+2023 - Fall,BIOL198,Supplemental Instruction,45,11
+2023 - Fall,BIOL255,Marine Biology,32,5
+2023 - Fall,BIOL304,Human Genetics,40,6
+2023 - Fall,BIOL307,Evolution,61,5
+2023 - Fall,BIOL330,Principles of Ecology,62,6
+2023 - Fall,BIOL340,Genetics,94,14
+2023 - Fall,BIOL350,Cell Biology,75,6
+2023 - Fall,BIOL412,General Bacteriology,35,6
+2023 - Fall,BIOL433,Microbial Ecology,16,0
+2023 - Fall,BIOL433D,Microbial Ecology Discussion,16,0
+2023 - Fall,BIOL434,Population and Community Ecolo,16,1
+2023 - Fall,BIOL440,Genetics Lab,24,0
+2023 - Fall,BIOL450,Cell Biology Lab,10,0
+2023 - Fall,BIOL482,Supervised Internship,12,1
+2023 - Fall,BIOL499,Directed Study,79,2
+2023 - Fall,BOT105,General Botany,329,74
+2023 - Fall,BOT180,Botany and Community,15,1
+2023 - Fall,BOT180A,Botany and Community,17,2
+2023 - Fall,BOT198,Bot 105 Supplemental Instruct,110,23
+2023 - Fall,BOT310,General Plant Physiology,45,0
+2023 - Fall,BOT330,Plant Ecology,66,1
+2023 - Fall,BOT330L,Plant Ecology Lab,16,0
+2023 - Fall,BOT350,Plant Taxonomy,97,10
+2023 - Fall,BOT358,Biology of The Microfungi,21,3
+2023 - Fall,BOT394,Forest Pathology,22,2
+2023 - Fall,CD109Y,Amer Sign Language Level I,37,5
+2023 - Fall,CD209,Middle Childhood Development,66,8
+2023 - Fall,CD251,"Chldrn, Families and Their Com",14,0
+2023 - Fall,CD253,Prenatal and Infant Developmen,15,1
+2023 - Fall,CD257,Supervised Work W and  Childre,23,0
+2023 - Fall,CD350,Life-Span Development,23,0
+2023 - Fall,CD354,Methods of Observation,19,0
+2023 - Fall,CD355,Language Development,20,1
+2023 - Fall,CD362,Children and Stress,19,0
+2023 - Fall,CD366,Exceptional Children and Famil,13,0
+2023 - Fall,CD467,Working With Cult Diverse Fam,15,0
+2023 - Fall,CD469W,Contemp Issues In Child Devlpm,16,0
+2023 - Fall,CD479,Policy Analysis and Advocacy,23,1
+2023 - Fall,CD499,Asl Internship,10,0
+2023 - Fall,CHEM107,Fundamentals of Chemistry,111,18
+2023 - Fall,CHEM109,General Chemistry,239,42
+2023 - Fall,CHEM110,General Chemistry,99,18
+2023 - Fall,CHEM198,Supplemental Instruction,106,22
+2023 - Fall,CHEM228,Brief Organic Chemistry,68,14
+2023 - Fall,CHEM310,Inorganic Chemistry I,27,2
+2023 - Fall,CHEM324,Organic Chemistry I,56,13
+2023 - Fall,CHEM324L,Organic Chemistry I Laboratory,53,3
+2023 - Fall,CHEM341,Quantitative Analysis,20,3
+2023 - Fall,CHEM361,Physical Chemistry I,14,0
+2023 - Fall,CHEM370,Earth System Chemistry,15,1
+2023 - Fall,CHEM434,Biochemistry I,16,0
+2023 - Fall,CHEM434L,Biochemistry I Lab,16,2
+2023 - Fall,CHEM438,Introductory Biochemistry,22,2
+2023 - Fall,CHEM495,Undergraduate Research,13,0
+2023 - Fall,COMM100,Fund Speech Comm,462,55
+2023 - Fall,COMM103,Critical Listening and Thinkin,34,3
+2023 - Fall,COMM105,Intro To Human Communication,28,2
+2023 - Fall,COMM108,Oral Interpretation,23,1
+2023 - Fall,COMM300,American Public Discourse,26,0
+2023 - Fall,COMM309B,Gender and Communication,42,1
+2023 - Fall,COMM312,Group Communication,23,3
+2023 - Fall,COMM315,Communication and Soc. Advocac,17,3
+2023 - Fall,COMM319W,Communication Research,14,2
+2023 - Fall,COMM404,Theories of Comm Influence,21,1
+2023 - Fall,CRGS108,"Pwr and Privilege, gen and Rac",60,7
+2023 - Fall,CRGS235,Act To End Sexualized Violence,17,5
+2023 - Fall,CRGS313,Community Activism,26,2
+2023 - Fall,CRGS321,Trans* Lives and Theory,19,2
+2023 - Fall,CRGS331,Radical Futures,33,4
+2023 - Fall,CRGS360,"Race, Gender and Us Law",25,0
+2023 - Fall,CRGS390,Theory and Methods,23,3
+2023 - Fall,CRGS480,Radical Futures,11,0
+2023 - Fall,CRIM125,Introduction To Cjs,13,3
+2023 - Fall,CRIM225S,Inequalities and Crime,18,3
+2023 - Fall,CRIM325W,Law and Society,20,1
+2023 - Fall,CRIM410,Criminology Theory,15,0
+2023 - Fall,CRIM455,"Policing Bodies,  Race and Rio",16,0
+2023 - Fall,CS100,Critical Thinking W and  Compu,22,4
+2023 - Fall,CS111,Computer Science Foundations 1,73,13
+2023 - Fall,CS112,Computer Science Foundations 2,35,4
+2023 - Fall,CS201,Requirements Engineering,11,2
+2023 - Fall,CS211,Data Structures,37,0
+2023 - Fall,CS243,Architecture,36,2
+2023 - Fall,CS309,Computers and Social Change,51,1
+2023 - Fall,CS312,Algorithms,23,2
+2023 - Fall,CS325,Database Design,50,2
+2023 - Fall,CS346,Telecommunications and Network,42,4
+2023 - Fall,CS374,Operating Systems,35,2
+2023 - Fall,CS458,Software Engineering,38,1
+2023 - Fall,CS480,Mobile Apps,25,1
+2023 - Fall,CS480L,Mobile Apps,25,1
+2023 - Fall,DANC103,Modern I,19,3
+2023 - Fall,DANC104,Modern II,17,2
+2023 - Fall,DANC110,Ballet I,11,1
+2023 - Fall,DANC241,Hip-Hop Dance,17,0
+2023 - Fall,DANC243,Tap Dance,11,0
+2023 - Fall,DANC245,Middle Eastern Dance,12,1
+2023 - Fall,DANC247,Mexican Folklorico Dance,17,1
+2023 - Fall,DANC303,Dance In World Cultures,18,0
+2023 - Fall,DANC320,Jazz Dance Styles II,12,1
+2023 - Fall,DANC350,Dance Science,16,0
+2023 - Fall,DANC352,Bodyworks,13,0
+2023 - Fall,DANC389,Choreography Workshop,12,0
+2023 - Fall,DANC488,Dance Performance Ensemble,43,1
+2023 - Fall,ECON104,Contemporary Topics In Econ,23,4
+2023 - Fall,ECON210,Principles of Economics,49,9
+2023 - Fall,ECON210L,Supplemental Instruction,14,0
+2023 - Fall,ECON306W,Econ of The Developing World,17,2
+2023 - Fall,ECON311,Intermed Macroeconomics,10,1
+2023 - Fall,ECON423,Environmental and Nr Economics,61,1
+2023 - Fall,ECON450,Energy Econ and Climate Policy,20,1
+2023 - Fall,ECON470S,Sustainable Rural Econ Devlpmt,11,0
+2023 - Fall,EDUC101,Creando Raíces,37,7
+2023 - Fall,EDUC377,Educ of Excptnl Individuals,15,1
+2023 - Fall,ENGL102,Composition and Rhetoric A,540,93
+2023 - Fall,ENGL103,Composition and Rhetoric B,109,11
+2023 - Fall,ENGL104,Accelerated Comp and Rhetoric,194,35
+2023 - Fall,ENGL105,Introduction To Literature,18,3
+2023 - Fall,ENGL110,Writing Lab,55,22
+2023 - Fall,ENGL211,Intro Creative Writing,16,2
+2023 - Fall,ENGL218,Conceptualizing English,20,3
+2023 - Fall,ENGL220,"Literature, Identity and Rprsn",17,2
+2023 - Fall,ENGL240,World Lit,18,2
+2023 - Fall,ENGL308B,Women In Literature,12,2
+2023 - Fall,ENGL315,"Creative Writing,  Fiction",12,1
+2023 - Fall,ENGL316,"Creative Writing,  Poetry",20,1
+2023 - Fall,ENGL328,Structure of American English,19,0
+2023 - Fall,ENGL336,Multicultural Queer Narratives,19,1
+2023 - Fall,ENGL350,Sexology and Literary Scandal,10,3
+2023 - Fall,ENGL406W,Theories of Writing,13,0
+2023 - Fall,ENGL426,Communication In Writing II,16,1
+2023 - Fall,ENGL435,Issues In Esl and Efl,19,0
+2023 - Fall,ENGL460,Toyon Literary Magazine,14,0
+2023 - Fall,ENGR115,Intro To Env Resources Engr,114,8
+2023 - Fall,ENGR123,Engineering Fabrication,46,1
+2023 - Fall,ENGR205,Intro To Design,32,0
+2023 - Fall,ENGR210,Solid Mechanics Statics,26,4
+2023 - Fall,ENGR225,Comp Methds For Env Engrng I,22,1
+2023 - Fall,ENGR226,Comp Methods For Enginring II,24,4
+2023 - Fall,ENGR280,Green Building,76,15
+2023 - Fall,ENGR308,Technology and The Environment,18,2
+2023 - Fall,ENGR313,Systems Analysis,24,1
+2023 - Fall,ENGR322,Envrnmntl Data Modeling and An,23,0
+2023 - Fall,ENGR326,Comp Mthds For Env Eng III,11,2
+2023 - Fall,ENGR330,Mech and Science of Materials,17,0
+2023 - Fall,ENGR331,Thermo and Energy Systems,25,0
+2023 - Fall,ENGR333,Fluid Mechanics,10,2
+2023 - Fall,ENGR410,Environ. Impact Assessment,17,0
+2023 - Fall,ENGR416,Transport Phenomena,13,0
+2023 - Fall,ENGR440,Hydrology I,16,1
+2023 - Fall,ENGR443,Groundwater Hydrology,12,1
+2023 - Fall,ENGR475,Renewable Energy Power Systems,15,0
+2023 - Fall,ENGR492W,Capstone Design Project,11,0
+2023 - Fall,ENST120,Intro Seminar In Env. Studies,34,2
+2023 - Fall,ENST123,Green Building,42,6
+2023 - Fall,ENST295,Power and Priviledge and Envir,37,6
+2023 - Fall,ENST381,Resilient Community Innovation,24,1
+2023 - Fall,ENST395W,Env. St. Research and Analysis,28,0
+2023 - Fall,ES105,Intro To U.S. Ethnic Studies,76,10
+2023 - Fall,ES106,Intro To Black Studies,56,19
+2023 - Fall,ES107,Chican@ and Latin@ Lives,139,15
+2023 - Fall,ES301,Media and Pol. of Representati,22,1
+2023 - Fall,ES302,"Asian American Studies,  Intro",22,1
+2023 - Fall,ES305,African American Cultural Hist,22,3
+2023 - Fall,ES308,Multicult Perspectvs Amer Soc,39,8
+2023 - Fall,FILM109,Film Comedy Around The World,79,9
+2023 - Fall,FILM260,Film Festival,19,4
+2023 - Fall,FILM305,Art of Film and Beginning To 1,40,7
+2023 - Fall,FILM315,Filmmaking I,26,1
+2023 - Fall,FILM317,"Art of Film Disc,  Pre 1950s",23,1
+2023 - Fall,FILM350,Writing For Film,17,0
+2023 - Fall,FILM378,Cinematography,18,0
+2023 - Fall,FILM415,Filmmaking III,22,0
+2023 - Fall,FILM478,Experimental Filmmaking,24,0
+2023 - Fall,FISH260,Fish Conservation and Manageme,25,5
+2023 - Fall,FISH300,Intro To Fishery Biology,53,8
+2023 - Fall,FISH310,Ichthyology,61,8
+2023 - Fall,FISH314,Fishery Science Communication,13,2
+2023 - Fall,FISH370,Aquaculture,27,2
+2023 - Fall,FISH380,Techniques In Fishery Biology,16,0
+2023 - Fall,FISH435,Ecology of Marine Fishes,27,0
+2023 - Fall,FISH476,Ecology of Running Water,14,0
+2023 - Fall,FOR130,Dendrology,49,1
+2023 - Fall,FOR131,Forest Ecology,46,3
+2023 - Fall,FOR170,"Conclave,  Logging Sprts Cmptn",74,0
+2023 - Fall,FOR210,Forest Measurements,75,8
+2023 - Fall,FOR222,Forest Health and Protection,40,3
+2023 - Fall,FOR250,Intro To Forest Operations,47,1
+2023 - Fall,FOR315,Forest Management,51,4
+2023 - Fall,FOR359,Ca and Us Forest and Wildland,70,1
+2023 - Fall,FOR374,Wilderness Area Management,30,3
+2023 - Fall,FOR430,Forest Ecosystems,22,2
+2023 - Fall,FOR432,Silviculture,51,2
+2023 - Fall,FOR471,Forest Administration,58,1
+2023 - Fall,FOR475,Forest Mgmt Decision Making,28,2
+2023 - Fall,FOR479W,Forestry Capstone,18,1
+2023 - Fall,FREN100,Enlgtmt and Pst-Colnlsm,41,4
+2023 - Fall,FREN105,French Level I,11,2
+2023 - Fall,FREN340,La Musique Francophone Engagée,10,0
+2023 - Fall,FREN390,Topic Cinema Francophone World,11,1
+2023 - Fall,GEOG105,Cultural Geography,29,1
+2023 - Fall,GEOG106,Physical Geography,42,7
+2023 - Fall,GEOG300,Global Awareness,57,10
+2023 - Fall,GEOG304,Migrations and Mosaics,36,6
+2023 - Fall,GEOG310L,Geographic Research Laboratory,16,2
+2023 - Fall,GEOG311,Geographic Research and Writin,16,1
+2023 - Fall,GEOG472,China and Tibet,17,2
+2023 - Fall,GEOG472M,China and Tibet,17,1
+2023 - Fall,GEOL103,The Water Planet,39,6
+2023 - Fall,GEOL106,Earthquake Country,50,7
+2023 - Fall,GEOL109,General Geology,36,1
+2023 - Fall,GEOL303,Earth Resourc and Glbl Env Chg,17,0
+2023 - Fall,GEOL306,General Geomorphology,23,1
+2023 - Fall,GEOL312,Earth Materials,24,0
+2023 - Fall,GEOL332,Sedimentary Geology,21,0
+2023 - Fall,GEOL335,Geology Field Methods II,23,0
+2023 - Fall,GEOL380,Advanced Igneous Petrology Sem,14,1
+2023 - Fall,GEOL380L,Hydrogeology,14,1
+2023 - Fall,GERM306,Sex and Clss and Cltr Intrl Sh,10,1
+2023 - Fall,GSP101,Geospatial Concepts,226,38
+2023 - Fall,GSP216,Introduction To Remote Sensing,49,1
+2023 - Fall,GSP270,Introduction To Gis,109,16
+2023 - Fall,GSP316,Cartography,17,0
+2023 - Fall,GSP326,Intermediate Remote Sensing,16,1
+2023 - Fall,GSP370,Intermediate Gis,22,5
+2023 - Fall,HED100,Sound Mind Sound Body,87,25
+2023 - Fall,HED120,Rspnding To Emergencies-Cprfpr,30,0
+2023 - Fall,HED231,Basic Human Nutrition,45,7
+2023 - Fall,HED342,Nutrition Athletic Performance,20,0
+2023 - Fall,HIST104,Western Civilization To 1650,11,1
+2023 - Fall,HIST110,U.S. History To 1877,129,9
+2023 - Fall,HIST111,U.S. History Since 1877,105,14
+2023 - Fall,HIST200,World Cultures and Hist To 150,12,0
+2023 - Fall,HIST210,Historical Methods,23,3
+2023 - Fall,HIST300,The Era of World War I,35,2
+2023 - Fall,HIST300R,"Era of Wwi, Research Seminar",16,2
+2023 - Fall,HIST315,History and Civilization of Ro,22,1
+2023 - Fall,HIST329,Imperial China,26,2
+2023 - Fall,HIST391,"Buying and Believing,  Ads and",12,1
+2023 - Fall,HIST393,Imperial China,16,2
+2023 - Fall,HIST397,Sci Fi In The 20th Century,32,5
+2023 - Fall,HIST420,Intrprtng Hist For Teachers,13,1
+2023 - Fall,INTL220,Intro To Cultural Studies,12,0
+2023 - Fall,INTL320,Career Workshop,11,0
+2023 - Fall,JMC105,Intro To Mass Communication,31,1
+2023 - Fall,JMC107,Media Tools,25,2
+2023 - Fall,JMC120,Beginning Reporting,19,2
+2023 - Fall,JMC134,Photojournalism and Photoshop,11,2
+2023 - Fall,JMC154,Radio Production,26,3
+2023 - Fall,JMC155,Krfh Workshop,37,1
+2023 - Fall,JMC156,Video Production,17,5
+2023 - Fall,JMC302,Mass Media and Popular Arts,39,2
+2023 - Fall,JMC306,Mass Communication History,38,5
+2023 - Fall,JMC309,Analyzing Mass Media Messages,33,2
+2023 - Fall,JMC320,Public Affairs Reporting,11,0
+2023 - Fall,JMC323,Public Relations,11,0
+2023 - Fall,JMC325,Magazine Production Workshop,11,0
+2023 - Fall,JMC327,Newspaper Lab,14,1
+2023 - Fall,JMC332W,Media Ethics,39,2
+2023 - Fall,JMC355,Advanced Krfh Workshop,14,0
+2023 - Fall,JMC427,Advanced Multimedia Workshop,10,0
+2023 - Fall,JMC480,Centennial Documentary,14,1
+2023 - Fall,KINS165,Foundations of Kinesiology,42,0
+2023 - Fall,KINS244,Medical Terminology,17,1
+2023 - Fall,KINS379,Exercise Physiology,18,0
+2023 - Fall,KINS385,Adapted Physical Education,38,0
+2023 - Fall,KINS386,Structural Kinesiology,23,3
+2023 - Fall,KINS460,Hpl Techniques,14,0
+2023 - Fall,KINS474,Psychology of Sport and Exerci,31,2
+2023 - Fall,KINS475,Elementary School P.E.,24,2
+2023 - Fall,KINS483,Eval Techniques of Kinesiology,38,0
+2023 - Fall,KINS484,Motor Development Motor Learn,28,3
+2023 - Fall,KINS492W,Senior Project In Kinesiology,22,5
+2023 - Fall,LSEE101,Foundations of Education,16,0
+2023 - Fall,LSEE212,Language and Literacy,16,0
+2023 - Fall,LSEE315,So Stud For Elementary Ed,20,0
+2023 - Fall,LSEE317,Numb and Operations and Elem a,29,1
+2023 - Fall,LSEE318,Numb and Operations and Elem a,27,1
+2023 - Fall,LSEE377,Educ Exceptional Individuals,21,0
+2023 - Fall,LSEE421,Critical Multicultural Educ,23,2
+2023 - Fall,LSEE443,Action Research I,20,0
+2023 - Fall,MATH1,Support For Math 101i,172,58
+2023 - Fall,MATH101,College Algebra,141,34
+2023 - Fall,MATH101I,College Algebra Is,172,61
+2023 - Fall,MATH101T,Trigonometry,33,14
+2023 - Fall,MATH102,Algebra and Elementary Functio,159,46
+2023 - Fall,MATH103,Contemporary Mathematics,53,11
+2023 - Fall,MATH105,Calculus and Bio Sci and Nat R,97,24
+2023 - Fall,MATH107,Introduction To Linear Algebra,25,4
+2023 - Fall,MATH109,Calculus I,97,28
+2023 - Fall,MATH110,Calculus II,71,31
+2023 - Fall,MATH180,Stretch Calculus Part 1,24,3
+2023 - Fall,MATH198,Math 101 Supplemental Instruct,52,14
+2023 - Fall,MATH210,Calculus III,39,4
+2023 - Fall,MATH245,Math Experimentation and Proof,14,2
+2023 - Fall,MATH253,Discrete Mathematics,35,4
+2023 - Fall,MATH371,Geometry,11,0
+2023 - Fall,MATH442,Abstract Algebra,11,1
+2023 - Fall,MUS104,Intro To Music,71,14
+2023 - Fall,MUS106B,University Singers,15,0
+2023 - Fall,MUS106H,Symphonic Band,17,0
+2023 - Fall,MUS106N,Humboldt Chorale,29,2
+2023 - Fall,MUS106O,Humboldt Symphony,14,1
+2023 - Fall,MUS107C,Calypso Band,19,2
+2023 - Fall,MUS107G,Guitar Chamber Music,10,0
+2023 - Fall,MUS107H,Mariachi De Humboldt,18,3
+2023 - Fall,MUS107Q,World Percussion Ensemble,10,1
+2023 - Fall,MUS108G,Beginning Acoustic Guitar,40,3
+2023 - Fall,MUS108K,Beginning Piano,24,2
+2023 - Fall,MUS108V,Beginning Voice,18,0
+2023 - Fall,MUS110,Fundamentals of Music,23,7
+2023 - Fall,MUS112,Piano I,12,1
+2023 - Fall,MUS130,Piano III,12,0
+2023 - Fall,MUS217,Ear Training II,10,0
+2023 - Fall,MUS220,"Studio Piano, Int.",12,2
+2023 - Fall,MUS221,"Studio Voice, Int.",18,0
+2023 - Fall,MUS232,"Studio Percussion, Int.",23,0
+2023 - Fall,MUS237,"Studio Guitar, Int.",16,1
+2023 - Fall,MUS301,"Rock,  An American Music",73,12
+2023 - Fall,MUS302,Music In World Culture,39,1
+2023 - Fall,MUS305,Jazz - An American Art Form,12,0
+2023 - Fall,MUS324,Contemporary Composition,11,0
+2023 - Fall,MUS361,"Music Tech,  Recrdng and Playb",15,2
+2023 - Fall,MUS385P,Performance Seminar,11,0
+2023 - Fall,NAS101,Tek and Place Based Learning,59,5
+2023 - Fall,NAS104,Intro To Nat American Studies,320,60
+2023 - Fall,NAS107,Intro To Ca Indian Peoples,32,5
+2023 - Fall,NAS200,Indian In Am Hist,159,29
+2023 - Fall,NAS302W,Oral Literature and Tradition,36,4
+2023 - Fall,NAS303,Native American Psychology,39,3
+2023 - Fall,NAS306,Native People of North America,40,2
+2023 - Fall,NAS308,Indigenous Ethnobotany,42,0
+2023 - Fall,NAS331,Intro Native Amer Prospec Nr,26,1
+2023 - Fall,NAS332,Environmental Justice,29,0
+2023 - Fall,NAS333,Food Sovereignty Lab,13,0
+2023 - Fall,NAS340,Lang and Comm In Nat Amer Comm,22,4
+2023 - Fall,NAS362,Tribal Governance and Leadersh,25,0
+2023 - Fall,NAS365,Federal Indian Law II,11,0
+2023 - Fall,NAS480,Native American Art of The Nc,13,1
+2023 - Fall,OCN109,General Oceanography,90,11
+2023 - Fall,OCN109L,Gen Ocn Lab,92,8
+2023 - Fall,OCN260,Sampling Techniques and Fld St,24,0
+2023 - Fall,OCN301,Marine Ecosystems-Human Impact,24,3
+2023 - Fall,OCN310,Biological Oceanography,13,0
+2023 - Fall,OCN496,Field Cruise II,10,0
+2023 - Fall,PE112,Aikido Beginning,11,2
+2023 - Fall,PE116,Basketball,14,2
+2023 - Fall,PE119,Aerobics Beginning,24,2
+2023 - Fall,PE125,Fencing Beginning,12,5
+2023 - Fall,PE144,Stretch and Relaxation Techniq,86,5
+2023 - Fall,PE146,Fitness Swimming Beginning,47,10
+2023 - Fall,PE157,Weight Training Ind and Beginn,70,9
+2023 - Fall,PE158,Strength Fitness,215,2
+2023 - Fall,PE192,Latin Dance,24,2
+2023 - Fall,PE224,"Women's Rowing, Beginning",32,0
+2023 - Fall,PE253,Pilates,72,8
+2023 - Fall,PE259,Yoga,145,21
+2023 - Fall,PE289,"Yoga, Advanced",36,4
+2023 - Fall,PE438,Intercollegiate Men's Soccer,11,0
+2023 - Fall,PE456,Intercol Men and Wmn Track and,21,0
+2023 - Fall,PHIL100,Logic,105,20
+2023 - Fall,PHIL104,Asian Philosophy,28,1
+2023 - Fall,PHIL106,Moral Controversies,32,1
+2023 - Fall,PHIL107,Intro To Philosophy,72,12
+2023 - Fall,PHIL198,Supplemental Instruction Logic,11,3
+2023 - Fall,PHIL210,Ancient Philosophy,16,2
+2023 - Fall,PHIL301,Reflection On Art,25,5
+2023 - Fall,PHIL302,Environmental Ethics,57,10
+2023 - Fall,PHIL304,Philosophy of Sex and Love,31,0
+2023 - Fall,PHIL306,"Race, Racism and Philosophy",20,2
+2023 - Fall,PHIL355,Existentialism,21,0
+2023 - Fall,PHIL480,Philosophical Methods,14,2
+2023 - Fall,PHYX104,Descriptive Astronomy,46,5
+2023 - Fall,PHYX106,"Col Phyx,  Mechanics and Heat",91,8
+2023 - Fall,PHYX107,"Col Phyx,  Electromag, Mod Phy",31,3
+2023 - Fall,PHYX109,"Gen Phyx I,  Mechanics",62,8
+2023 - Fall,PHYX118,"College Phyx, biologic Applict",44,3
+2023 - Fall,PHYX198,Supplemental Instr.Physics 106,23,4
+2023 - Fall,PHYX211,General Physics C,15,1
+2023 - Fall,PHYX310,Space-Time,13,4
+2023 - Fall,PHYX315,Intro To Electronics,16,0
+2023 - Fall,PHYX320,Modern Physics,15,0
+2023 - Fall,PHYX340,Math and Computational Methods,17,1
+2023 - Fall,PHYX495,Undergraduate Research,10,0
+2023 - Fall,PSCI110,American Government,289,30
+2023 - Fall,PSCI159,California Government,40,6
+2023 - Fall,PSCI220,Intro To Political Theory,19,5
+2023 - Fall,PSCI280,Core Discussion Seminar,11,0
+2023 - Fall,PSCI295,Political Research and Analysi,14,1
+2023 - Fall,PSCI305W,Food Politics,25,0
+2023 - Fall,PSCI306,Environmental Politics,31,4
+2023 - Fall,PSCI317,Policy Process,13,0
+2023 - Fall,PSCI373,Polits. of Sustainable Society,21,2
+2023 - Fall,PSCI414,Moot Court Competition,11,0
+2023 - Fall,PSCI485W,Personhood and Citizenship,10,1
+2023 - Fall,PSYC100,Psych of Critical Thinking,140,14
+2023 - Fall,PSYC104,Intro Psychology,127,23
+2023 - Fall,PSYC109,Intro Psychological Statistics,44,15
+2023 - Fall,PSYC198,Supplemental Instruction,23,7
+2023 - Fall,PSYC240,Understanding Research In Psyc,49,4
+2023 - Fall,PSYC300,Psychology of Women,82,10
+2023 - Fall,PSYC302,Psychology of Prejudice,20,2
+2023 - Fall,PSYC306,Health Psychology,51,4
+2023 - Fall,PSYC311,Human Development,46,1
+2023 - Fall,PSYC321,Intro Behavioral Neuroscience,44,4
+2023 - Fall,PSYC322,Learning and Motivation,47,6
+2023 - Fall,PSYC323,Sensation and Perception,34,2
+2023 - Fall,PSYC324,Cognitive Psychology,80,8
+2023 - Fall,PSYC335,Social Psychology,40,3
+2023 - Fall,PSYC336,Social Influence and Persuasio,26,5
+2023 - Fall,PSYC337,Personality Theory and Researc,47,8
+2023 - Fall,PSYC338,Abnormal Psychology,83,10
+2023 - Fall,PSYC342W,App of Research Methods In Psy,24,2
+2023 - Fall,PSYC345L,Psych Tests and Measurement,17,2
+2023 - Fall,PSYC411,Social Neuroscience,17,4
+2023 - Fall,PSYC415,Psych of Aging and Older Adult,12,2
+2023 - Fall,PSYC436,Human Sexuality,15,1
+2023 - Fall,PSYC454,Interviewing and Counslng Tech,50,8
+2023 - Fall,PSYC473,Substance Use and Abuse,80,2
+2023 - Fall,PSYC486,History and Systems of Psych,28,7
+2023 - Fall,PSYC489S,Community Psychology,23,0
+2023 - Fall,PSYC495,Research In Psych,32,0
+2023 - Fall,PSYC497,Mentoring,18,0
+2023 - Fall,REC100,Leisure In Society,40,6
+2023 - Fall,REC220,Leisure Programming,19,1
+2023 - Fall,REC252,"Diving 1st Aid, Hsu Div Intro",45,2
+2023 - Fall,REC262,Beginning Scuba,25,4
+2023 - Fall,REC302,Inclusive Recreation,58,5
+2023 - Fall,REC320,"Organ, Admin, Facility Planing",11,1
+2023 - Fall,REC330,Adventure Theory and Practice,18,1
+2023 - Fall,REC383,Rescue Diver,15,0
+2023 - Fall,REC471,Scientific Diving,28,0
+2023 - Fall,REC472,"Leadership Diving,  Asst. Inst",13,1
+2023 - Fall,RRS306,Wildland Resource Principles,43,3
+2023 - Fall,RRS375,Vegetation Analysis and Health,23,3
+2023 - Fall,RRS430,Wildland Restoration and Devel,24,0
+2023 - Fall,RS105,World Religions,87,10
+2023 - Fall,RS120,Exploring Religion,23,7
+2023 - Fall,RS300W,"Living Myths,  War and Peace",41,6
+2023 - Fall,RS305W,"Yoga,  Spirit, Practice, Healt",28,2
+2023 - Fall,RS394,Orthodox Christian Weekend,45,13
+2023 - Fall,SCI100,Becoming A Stem Professional,413,60
+2023 - Fall,SOC104,Introductory Sociology,32,2
+2023 - Fall,SOC225S,Social Issues and Action,12,0
+2023 - Fall,SOC282L,Sociological Statistics Lab,30,1
+2023 - Fall,SOC303,Race and Inequality,22,6
+2023 - Fall,SOC303M,Race and Inequality For Majors,11,3
+2023 - Fall,SOC306,The Changing Family,12,0
+2023 - Fall,SOC310W,Sociological Theory,12,0
+2023 - Fall,SOC316,Gender and Society,15,2
+2023 - Fall,SOC363,Environmental Crime,26,1
+2023 - Fall,SOC372,Proseminar,20,2
+2023 - Fall,SOC382,Intro To Social Research,36,7
+2023 - Fall,SOC410,Contemporary Social Theory,11,1
+2023 - Fall,SOC472,Graduate School Planning,20,2
+2023 - Fall,SOC475,Community Organizing,17,1
+2023 - Fall,SOC482,Internship,14,1
+2023 - Fall,SOIL260,Introduction To Soil Science,120,10
+2023 - Fall,SOIL360,Origin and Classification Soil,18,0
+2023 - Fall,SOIL363,Wetland Soils,24,0
+2023 - Fall,SP117,College Seminar,27,1
+2023 - Fall,SP121S,Issues In Com. Volunteering,41,4
+2023 - Fall,SP310,Interdisciplinary Inquiry,20,0
+2023 - Fall,SPAN105,Spanish Level I,34,8
+2023 - Fall,SPAN106,Spanish Level II,34,8
+2023 - Fall,SPAN108,Level III Heritage Speakers,10,0
+2023 - Fall,SPAN370,Spanish Retreat and Seminar,25,3
+2023 - Fall,STAT108,Elementary Statistics,151,23
+2023 - Fall,STAT108I,Elementary Statistics Is,43,12
+2023 - Fall,STAT109,Introductory Biostatistics,152,23
+2023 - Fall,STAT323,Probability and Statistics,11,0
+2023 - Fall,STAT333,Linear Regression Models and A,40,3
+2023 - Fall,STAT8,Support For Stat 108i,43,12
+2023 - Fall,SW101,Intro To Sw and Sw Institution,83,12
+2023 - Fall,SW340,Intro To Social Work Methods,68,3
+2023 - Fall,SW340L,Intro Social Work Methods Lab,68,3
+2023 - Fall,SW350,Human Behavior and Soc Env I,68,2
+2023 - Fall,SW355,Social Agency Experience,47,2
+2023 - Fall,SW382,Social Work Research,70,4
+2023 - Fall,SW442,Soc Wk and Community Justice,37,2
+2023 - Fall,SW455,Social Work Field Experience,37,0
+2023 - Fall,SW456,Field Experience Seminar,37,0
+2023 - Fall,TA104,Story Through Word and Image,25,0
+2023 - Fall,TA105,Acting I,19,5
+2023 - Fall,TA106,Behind The Scenes In Theatre,28,5
+2023 - Fall,TA315,Acting In Comedy,13,0
+2023 - Fall,TA328,Production Practicum,38,0
+2023 - Fall,TA331,Scenic Design and Art Directio,15,1
+2023 - Fall,TA387,Patterning For Costumeandcospl,12,0
+2023 - Fall,TA451,Principles of Stage Directing,14,1
+2023 - Fall,WLDF111,Introduction To Wildlife,49,4
+2023 - Fall,WLDF210,Intro To Wldlfe Conserv and Ad,72,13
+2023 - Fall,WLDF244,Wildlife Policy and Animal Wel,74,9
+2023 - Fall,WLDF301,Principles of Wldlfe Mngmnt,54,6
+2023 - Fall,WLDF309,Case Studies In Environ Ethics,24,0
+2023 - Fall,WLDF311,Wildlife Techniques,36,6
+2023 - Fall,WLDF365,Ornithology I,48,4
+2023 - Fall,WLDF422,Wildlife Mgmt (Mammals),44,0
+2023 - Fall,WLDF423,Wildlife Mgmt (Nongame Wldf),49,1
+2023 - Fall,WLDF460,Conservation Biology,45,0
+2023 - Fall,WLDF468,Spatial Wildlife Ecology,11,0
+2023 - Fall,WLDF475,Wildlife Ethology,43,1
+2023 - Fall,WLDF478,Ecology Wildlife Populations,23,1
+2023 - Fall,WLDF482,Wildlife Conclave,10,0
+2023 - Fall,WLDF485,Senior Seminar Wildlife Mgmt,48,1
+2023 - Fall,WLDF495W,Senior Project,38,2
+2023 - Fall,WS106,Intro To Women's Studies,20,5
+2023 - Fall,WS107,"Women, Culture, History",59,7
+2023 - Fall,WS303,Third World Women's Movements,17,0
+2023 - Fall,WS306,Sex and Clss and Cltr Intrnl S,15,4
+2023 - Fall,WS309B,Gender and Communication,10,1
+2023 - Fall,WSHD310,Hydrology and Watershed Mgmt,66,4
+2023 - Fall,WSHD458,Climate Change and Land Use,24,0
+2023 - Fall,ZOOL110,Introductory Zoology,92,23
+2023 - Fall,ZOOL113,Human Physiology,16,1
+2023 - Fall,ZOOL270,Human Anatomy,26,4
+2023 - Fall,ZOOL310,Animal Physiology,52,8
+2023 - Fall,ZOOL314,Invertebrate Zoology,39,0
+2023 - Fall,ZOOL354,Herpetology,24,2
+2023 - Fall,ZOOL356,Mammalogy,65,3
+2023 - Fall,ZOOL370,Comp Anatomy of Vertebrates,28,7
